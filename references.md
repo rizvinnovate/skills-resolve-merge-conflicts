@@ -1,3 +1,4 @@
-# References
+## Adding Some Conflicts
 
-* octocat 1 😈
+- some resolution to be learnt
+
